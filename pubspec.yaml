@@ -47,6 +47,7 @@ dependencies:
   flutter_geofire:
   firebase_messaging:
   assets_audio_player:
+  flutter_polyline_points:
 
 dev_dependencies:
   flutter_test:
