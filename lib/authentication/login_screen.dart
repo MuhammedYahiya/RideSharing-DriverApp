@@ -1,4 +1,3 @@
-// import 'package:dri/authentication/signup_screen.dart';
 import 'package:driver_app/authentication/signup_screen.dart';
 import 'package:driver_app/pages/dashboard.dart';
 import 'package:firebase_auth/firebase_auth.dart';
