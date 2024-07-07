@@ -49,6 +49,7 @@ dependencies:
   assets_audio_player:
   flutter_polyline_points:
   url_launcher:
+  restart_app:
 
 dev_dependencies:
   flutter_test:
